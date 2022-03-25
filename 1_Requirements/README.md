@@ -1,11 +1,11 @@
-# NATURAL GARDEN SYSTEM 
+# NATURAL GARDENING SYSTEM 
 
 ## Introduction:
 Trees help to combat global warming by absorbing carbon dioxide, removing and storing carbon while releasing oxygen back into the air. They also reduce wind speeds and cool the air as they lose moisture and reflect heat upwards from their leaves. Plants are an essential resource - we rely on them for food, water, medicine, the air we breathe, habitat, our climate and more.
 
-Natural garden ssytem  project is build for sold the plants ,seeds and fertilizers to the customer. A Natural garden is a place where plants are propagated and grown to a desired size. Mostly the plants concerned are for gardening, forestry or conservation biology, rather than agriculture. This project is mainly developed for the people who are want to planted the trees.
+Natural gardening ssytem  project is build for sold the plants ,seeds and fertilizers to the customer. A Natural garden is a place where plants are propagated and grown to a desired size. Mostly the plants concerned are for gardening, forestry or conservation biology, rather than agriculture. This project is mainly developed for the people who are want to planted the trees.
 
-This project "NATURAL GARDEN SYSTEM "give us the information about the types of plants,seeds and fertilizers.
+This project "NATURAL GARDENING SYSTEM "give us the information about the types of plants,seeds and fertilizers.
  * Types of plants:
      * Herbs
      * Shrubs
@@ -33,19 +33,19 @@ e) Well managed and protected
 ## 4'WS and 1 H:
 
 #### Who
-This Natural Garden  System is  an application is used by all the people.
+This Natural Gardening  System is  an application is used by all the people.
 
 ####  What:
-Natural Garden System  is software that helps to maintain a database that is useful to enter the Order, Serve and Display.
+Natural Gardening System  is software that helps to maintain a database that is useful to enter the Order, Serve and Display the Plants details.
 
 ####  When:
-This Natural Garden System is very useful when there are large no of people planted the trees at home or anywhere.
+This Natural Gardening System is very useful when there are large no of people planted the trees at home or anywhere.
 
 #### Where:
-The Natural Garden System is nowadays essential for all the  places. They can use this software as the purpose of buying Plants /Seeds/Fertilizers.
+The Natural Gardening System is nowadays essential for all the  places. They can use this software as the purpose of buying Plants/Seeds/Fertilizers.
 
 ####  How:
-This project is implemented to do the plants /seeds/fertilizers ordering, Serve and  display purpose by entering the item code  as input.
+This project is implemented to do the plants/seeds/fertilizers ordering, Serve and  display purpose by entering the item code as input.
 
 
 ## HIGH LEVEL REQUIREMENTS:
@@ -66,7 +66,7 @@ HLR5              RAM 4GB                   	IMPLEMENTED
 
 RID             	DESCRIPTION	                STATUS
 
-LLR1      	      ORDER                     	IMPLEMENTED
+LLR1      	        ORDER                     	IMPLEMENTED
 
 LLR2	            SERVE	                      IMPLEMENTED
 
