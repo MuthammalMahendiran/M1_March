@@ -1,4 +1,4 @@
-# **NATURAL GARDEN**
+# NATURAL GARDENING SYSTEM 
 
 * Structure store the order number, number of plants and cost.
 
