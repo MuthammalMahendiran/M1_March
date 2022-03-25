@@ -16,7 +16,7 @@ This project "NATURAL GARDENING SYSTEM "give us the information about the types 
      * Wild plants
  * Seeds
  * Fertilizers
-     * organic Fertilizers
+     * Organic Fertilizers
      * Inorganic Fertilizers
 
 ## BENIFITS:
