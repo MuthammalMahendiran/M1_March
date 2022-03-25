@@ -1,9 +1,14 @@
 # **NATURAL GARDEN**
 
 * Structure store the order number, number of plants and cost.
-* under the main function while loop is executed 
-* while loop is used to repeatedly run the code until a condition is met.
 
+# Control statement:
+     While loop
+     If else statement
+     Switch statement
+* under the main function while loop is executed.
+* while loop is used to repeatedly run the code until a condition is met.
+* The while(1) is used for infinite loop.so, what are presented inside the loop that will be executed.baesd on choosing the list in loop, that particular case will be executed.
 * A switch statement allows a variable to be tested for equality against a list.
     * Switch statement rules:
       * The expression used in a switch statement must have an integral or enumerated type, or be of a class type in which the class has a single conversion function to         an integral or enumerated type.
@@ -13,6 +18,7 @@
       * When a break statement is reached, the switch terminates, and the flow of control jumps to the next line following the switch statement.
       * Not every case needs to contain a break. If no break appears, the flow of control will fall through to subsequent cases until a break is reached.
       * A switch statement can have an optional default case, which must appear at the end of the switch. The default case can be used for performing a task when none of         the cases is true. No break is needed in the default case.
-* Based on choosing of item code the switch case will be excecuted and printed the details of plants.
+
+* Based on choosing of item code , the switch case will be excecuted and printed the details of plants.
 
 
