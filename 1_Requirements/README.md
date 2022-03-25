@@ -1,17 +1,79 @@
-# C BASED STUDENT ATTENDANCE SYSTEM 
+# NATURAL GARDEN SYSTEM 
 
 ## Introduction:
-Student Attendance  System is based on the concept of managing student information.Talking about the features of this  system, the user can add various information of the students. For that, the user has to provide id, full name, class, branch, address, email, roll number, and contact details. The user can also modify all the available records easily. Before modifying the student’s record the user has to enter the respective name which shows the old available record. After that, the user can modify each and every field. Deleting a record is too simple here, the user just has to enter the full name of the student. In order to view student record, the user has to search for it. It is done by entering the full name of the student. Then the system displays each and every available detail.
+Trees help to combat global warming by absorbing carbon dioxide, removing and storing carbon while releasing oxygen back into the air. They also reduce wind speeds and cool the air as they lose moisture and reflect heat upwards from their leaves. Plants are an essential resource - we rely on them for food, water, medicine, the air we breathe, habitat, our climate and more.
 
-The system creates an external file to store the user’s data permanently.  Student Attendance  system is developed using C Programming Language and different variables, strings have been used for the development of it. 
+Natural garden ssytem  project is build for sold the plants ,seeds and fertilizers to the customer. A Natural garden is a place where plants are propagated and grown to a desired size. Mostly the plants concerned are for gardening, forestry or conservation biology, rather than agriculture. This project is mainly developed for the people who are want to planted the trees.
 
-## Benifits:
-1) Saves Time and Cost.
+This project "NATURAL GARDEN SYSTEM "give us the information about the types of plants,seeds and fertilizers.
+ * Types of plants:
+     * Herbs
+     * Shrubs
+     * Trees
+     * Climbers
+     * Creepers
+     * Water plants
+     * Wild plants
+ * Seeds
+ * Fertilizers
+     * organic Fertilizers
+     * Inorganic Fertilizers
 
-2) Secure and Reliable.
+## BENIFITS:
+a) Comfort
 
-3) Increases Efficiency.
+b) Quality
 
-4) Simple and Easy to Use.
+c) Provide required no of plants
 
-5)
+d) Provide the required size of plants
+
+e) Well managed and protected
+
+## 4'WS and 1 H:
+
+#### Who
+This Natural Garden  System is  an application is used by all the people.
+
+####  What:
+Natural Garden System  is software that helps to maintain a database that is useful to enter the Order, Serve and Display.
+
+####  When:
+This Natural Garden System is very useful when there are large no of people planted the trees at home or anywhere.
+
+#### Where:
+The Natural Garden System is nowadays essential for all the  places. They can use this software as the purpose of buying Plants /Seeds/Fertilizers.
+
+####  How:
+This project is implemented to do the plants /seeds/fertilizers ordering, Serve and  display purpose by entering the item code  as input.
+
+
+## HIGH LEVEL REQUIREMENTS:
+
+RID	              DESCRIPTION	                STATUS
+
+HLR1              C LANGUAGE   	              IMPLEMENTED
+
+HLR2              OS WINDOWS                  IMPLEMENTED
+
+HLR3              OS LINUX	                  IMPLEMENTED
+
+HLR4              HARDDISK	                  IMPLEMENTED
+
+HLR5              RAM 4GB                   	IMPLEMENTED
+
+## LOW LEVEL REQUIREMENTS:
+
+RID             	DESCRIPTION	                STATUS
+
+LLR1      	      ORDER                     	IMPLEMENTED
+
+LLR2	            SERVE	                      IMPLEMENTED
+
+LLR3	            DISPLAY	                    IMPLEMENTED
+
+LLR4	            EXIT                        IMPLEMENTED
+
+
+
+
