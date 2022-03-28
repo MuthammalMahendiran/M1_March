@@ -1,9 +1,11 @@
-# NATURAL GARDENING SYSTEM
+# NATURAL GARDENING SYSTEM 
 
-## 1.Order
+## IMAGES ADDED
 
-## 2.Serve
+### 1.Order
 
-## 3.Display
+### 2.Serve
 
-## 4.Exit
+### 3.Display
+
+###  4.Exit
