@@ -5,6 +5,8 @@ Trees help to combat global warming by absorbing carbon dioxide, removing and st
 
 Natural gardening ssytem  project is build for sold the plants ,seeds and fertilizers to the customer. A Natural garden is a place where plants are propagated and grown to a desired size. Mostly the plants concerned are for gardening, forestry or conservation biology, rather than agriculture. This project is mainly developed for the people who are want to planted the trees.
 
+The main objective of this project  is to grow plants in an open environment, maintain a good quality of plants and protect the plants from pests and diseases. 
+
 This project "NATURAL GARDENING SYSTEM "give us the information about the types of plants,seeds and fertilizers.
  * Types of plants:
      * Herbs
@@ -18,6 +20,16 @@ This project "NATURAL GARDENING SYSTEM "give us the information about the types 
  * Fertilizers
      * Organic Fertilizers
      * Inorganic Fertilizers
+
+## OBJECTIVES:
+
+a) To build a system that can receive input and generate automatically output in easy way and short time.
+
+b) To build a monitoring system that is able to monitor and manage all gardening operations efficiently.
+
+c) To provide Natural items to people.
+
+d) To store  the Plants ,Seeds and Fertilizers properly.
 
 ## BENIFITS:
 a) Comfort
@@ -73,34 +85,41 @@ e) Risk of computer virus.
 
 ## Opportunities:
 
+a) Mild climate.
+
+b) Lack of similar projects.
+
+c) Healthy living is a trend.
+
+d) Coperation with other local producers.
+
 ## Threats:
+
+a) Dependence on climatic conditions.
+
+b) Relatively easy imitation.
+
+c) External causes of environmental pollution.
 
 
 ## HIGH LEVEL REQUIREMENTS:
 
-RID	              DESCRIPTION	                STATUS
-
-HLR1              C LANGUAGE   	              IMPLEMENTED
-
-HLR2              OS WINDOWS                  IMPLEMENTED
-
-HLR3              OS LINUX	                  IMPLEMENTED
-
-HLR4              HARDDISK	                  IMPLEMENTED
-
-HLR5              RAM 4GB                   	IMPLEMENTED
+|RID       |DESCRIPTION	       |STATUS |
+|----------|-------------------|-------|
+|HLR1      |C LANGUAGE   	   |IMPLEMENTED|
+|HLR2      |OS WINDOWS         |IMPLEMENTED|
+|HLR3      |OS LINUX	       |IMPLEMENTED|
+|HLR4      |HARDDISK	       |IMPLEMENTED|
+|HLR5      |RAM 4GB            |IMPLEMENTED|
 
 ## LOW LEVEL REQUIREMENTS:
 
-RID             	DESCRIPTION	                STATUS
-
-LLR1      	        ORDER                     	IMPLEMENTED
-
-LLR2	            SERVE	                      IMPLEMENTED
-
-LLR3	            DISPLAY	                    IMPLEMENTED
-
-LLR4	            EXIT                        IMPLEMENTED
+|RID         |DESCRIPTION	    |STATUS|
+|------------|------------------|-------|
+|LLR1      	 |ORDER             |IMPLEMENTED|
+|LLR2	     |SERVE	            |IMPLEMENTED|
+|LLR3	     |DISPLAY	        |IMPLEMENTED|
+|LLR4	     |EXIT              |IMPLEMENTED|
 
 
 
