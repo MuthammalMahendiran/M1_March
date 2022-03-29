@@ -66,22 +66,19 @@ a) Simple & Easy to Use.
 
 b) Increased Gardening system.
 
-c) Efficient Cloud Data Management.
+c) Planting material is always available.
 
 d) Highly Secure, Scalable & Reliable.
 
-e) Mobile Access.
 
 ## Weakness:
 a) The data stored is prone to cyber hacks.
 
 b) Costly and Expensive.
 
-c) Complicated to operate.
+c) Online Systems require high-speed internet connectivity.
 
-d) Online Systems require high-speed internet connectivity.
-
-e) Risk of computer virus.
+d) Risk of computer virus.
 
 ## Opportunities:
 
