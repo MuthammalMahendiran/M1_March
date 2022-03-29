@@ -61,9 +61,9 @@ The Natural Gardening System is nowadays essential for all the  places. They can
 ####  How:
 This project is implemented to do the plants,seeds and fertilizers ordering, Serve and  display purpose by entering the item code as input.
 
-# SWOT ANALYSIS: 
+## SWOT ANALYSIS: 
 
-## Strengths:
+### Strengths:
 a) Simple & Easy to Use.
 
 b) Increased Gardening system.
@@ -73,7 +73,7 @@ c) Planting material is always available.
 d) Highly Secure, Scalable & Reliable.
 
 
-## Weakness:
+### Weakness:
 a) The data stored is prone to cyber hacks.
 
 b) Costly and Expensive.
@@ -82,7 +82,7 @@ c) Online Systems require high-speed internet connectivity.
 
 d) Risk of computer virus.
 
-## Opportunities:
+### Opportunities:
 
 a) Mild climate.
 
@@ -92,7 +92,7 @@ c) Healthy living is a trend.
 
 d) Coperation with other local producers.
 
-## Threats:
+### Threats:
 
 a) Dependence on climatic conditions.
 
