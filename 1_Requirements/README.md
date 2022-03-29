@@ -54,10 +54,10 @@ Natural Gardening System  is software that helps to maintain a database that is 
 This Natural Gardening System is very useful when there are large no of people planted the trees at home or anywhere.
 
 #### Where:
-The Natural Gardening System is nowadays essential for all the  places. They can use this software as the purpose of buying Plants/Seeds/Fertilizers.
+The Natural Gardening System is nowadays essential for all the  places. They can use this software as the purpose of buying Plants,Seeds and Fertilizers.
 
 ####  How:
-This project is implemented to do the plants/seeds/fertilizers ordering, Serve and  display purpose by entering the item code as input.
+This project is implemented to do the plants,seeds and fertilizers ordering, Serve and  display purpose by entering the item code as input.
 
 # SWOT ANALYSIS: 
 
