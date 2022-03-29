@@ -32,15 +32,17 @@ c) To provide Natural items to people.
 d) To store  the Plants ,Seeds and Fertilizers properly.
 
 ## BENIFITS:
-a) Comfort
+a) Comfort.
 
-b) Quality
+b) Quality.
 
-c) Provide required no of plants
+c) Provide required number  of plants.
 
-d) Provide the required size of plants
+d) Provide the required size of plants.
 
-e) Well managed and protected
+e) Provide natural seeds and fertilizers.
+
+e) Well managed and protected.
 
 ## 4'WS and 1 H:
 
