@@ -235,33 +235,4 @@ void items ()
     printf("[19]        Organic Fertilizers   Kelp/Cow dung manure/Alfalfa meal/Limestone/Chicken manure     720/675/495/595/970\n");
     printf("[20]        Inorganic Fertilizers Ammonium nitrate/Potassium sulfate/Superphosphate/Lime/Rock    520/575/875/975/350\n");
 }
-int main ()
-{
-    printf("\t\t     Welcome To Natural Garden\n");
-    while (1){
-        printf("1. Order\n2. Serve\n3. Display \n4. Exit \n");
-        int in;
-        scanf("%d", &in);
-        getchar ();
-        switch (in){
-            case 1 : {
-                order ();
-                break;
-            }
-            case 2 : {
-                receive();
-                break;
-            }
-            case 3 : {
-                display();
-                break;
-            }
-            case 4 : {
-                printf("Thank you! Save Trees Save life ");
-                return 0;
-            }
-        }
-    }
-}
-
 
