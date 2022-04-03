@@ -1,6 +1,6 @@
 #include"stdio.h"
-#inlcude"string.h"
-#inlcude"conio.h"
+#include"string.h"
+#include"conio.h"
 
 int receive ()
 {
