@@ -5,12 +5,12 @@
 # Compiler settings - Can be customized.
 CC = gcc
 CXXFLAGS = -std=c11 -Wall
-LDFLAGS = /mnt/c/Users/PERSONAL/Downloads/M1_March
+LDFLAGS = 
 
 # Makefile settings - Can be customized.
 APPNAME = Build
 EXT = .c
-SRCDIR = 
+SRCDIR = /mnt/c/Users/PERSONAL/Downloads/M1_March 
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
