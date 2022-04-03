@@ -1,21 +1,21 @@
-## HIGH LEVEL TEST:
+## HIGH LEVEL TEST PLAN:
 
-|RID       |DESCRIPTION	       |STATUS |
+|TEST ID      |DESCRIPTION	       |EXPECTED I/P |
 |----------|-------------------|-------|
-|HL01      |ORDER   	   |IMPLEMENTED|
-|HL02      |SERVE         |IMPLEMENTED|
-|HL03      |DISPLAY	       |IMPLEMENTED|
-|HL04      |EXIT	       |IMPLEMENTED|
+|HL01      |ORDER   	   |USER CHOSEN ITEM CODE|
+|HL02      |SERVE         |USER CHOSEN|
+|HL03      |DISPLAY	       |USER CHOSEN|
+|HL04      |EXIT	       |USER CHOSEN|
 
 
-## LOW LEVEL TEST:
+## LOW LEVEL TEST PLAN:
 
-|RID         |DESCRIPTION	    |STATUS|
+|TEST ID       |DESCRIPTION	    |EXPECTED I/P|
 |------------|------------------|-------|
-|LL01      	 |ORDER             |IMPLEMENTED|
-|LL02	     |SERVE	            |IMPLEMENTED|
-|LLO3	     |DISPLAY	        |IMPLEMENTED|
-|LLR4	     |EXIT              |IMPLEMENTED|
+|LL01      	 |ORDER             |USER CHOSEN ITEM CODE|
+|LL02	     |SERVE	            |USER CHOSEN |
+|LLO3	     |DISPLAY	        |USER CHOSEN|
+|LLR4	     |EXIT              |USER CHOSEN|
 
 
 
