@@ -1,6 +1,6 @@
 # NATURAL GARDENING SYSTEM 
 
-## Introduction:
+## INTRODUCTION:
 Trees help to combat global warming by absorbing carbon dioxide, removing and storing carbon while releasing oxygen back into the air. They also reduce wind speeds and cool the air as they lose moisture and reflect heat upwards from their leaves. Plants are an essential resource - we rely on them for food, water, medicine, the air we breathe, habitat, our climate and more.
 
 Natural gardening ssytem  project is build for sold the plants ,seeds and fertilizers to the customer. A Natural garden is a place where plants are propagated and grown to a desired size. Mostly the plants concerned are for gardening, forestry or conservation biology, rather than agriculture. This project is mainly developed for the people who are want to planted the trees.
